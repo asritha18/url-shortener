@@ -1,6 +1,6 @@
 # Shortly - URL shortening API landing page
 
-This is a solution to the [Shortly URL shortening API Challenge challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G).
+This is a solution to the [URL shortening API Landing page on Frontend Mentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G).
 
 ### The challenge
 
@@ -12,16 +12,6 @@ Users should be able to:
 - Copy the shortened link to their clipboard in a single click
 - Receive an error message when the `form` is submitted if:
   - The `input` field is empty
-
-### Challenge design
-
-![Image Of The Challenge](./design/desktop-preview.jpg)
-
-### Challenge links
-
-- Frontend Mentor Solution: [View Solution](https://www.frontendmentor.io/solutions/url-shortening-api-landing-page-using-sass-and-javascript-wq4AVIAm9)
-- Live Site On Github: [View Challenge]()
-
 
 ### Built with
 
